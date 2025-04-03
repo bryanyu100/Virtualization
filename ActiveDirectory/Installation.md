@@ -7,7 +7,7 @@
 - Name change for server
 
 ## 2. Installation of Active Directory roles
-In the Server Manager, click the Manage menu in the top-right corner and select Add Roles and Features.
+In the Server Manager, click the Add Roles and Features option.
 
 Click Next.
 
