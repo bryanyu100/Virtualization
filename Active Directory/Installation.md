@@ -9,6 +9,8 @@
 ## 2. Installation of Active Directory roles
 In the Server Manager, click the Add Roles and Features option.
 
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20152404.png)
+
 Click Next.
 
 Make sure that the Role-based or feature-based installation option is selected. Then click Next.
