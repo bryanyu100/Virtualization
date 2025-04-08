@@ -23,7 +23,7 @@ Make sure that your Windows server is selected in the list. Then click Next.
 
 ![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20153649.png)
 
-On the Server Roles screen, check Active Directory Domain Services in the list of roles.
+Check Active Directory Domain Services in the list of roles. Then click Next.
 
 ![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20153751.png)
 
@@ -31,17 +31,19 @@ In the Add Roles and Features Wizard popup dialog, make sure that Include manage
 
 ![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20153929.png)
 
-![]()
+Check DHCP Server and DNS Server in the list of roles. Then click Next
 
-![]()
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20154010.png)
 
-![]()
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20154128.png)
 
-![]()
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20154220.png)
 
-![]()
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20154255.png)
 
-![]()
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20154442.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20154508.png)
 
 ![]()
 
