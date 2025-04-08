@@ -1,2 +1,8 @@
 # Virtualization
-This repository contains my upcoming virtualization notes and projects.
+This repository contains my virtualization notes and projects.
+
+## What You Can Find
+- Systems Installation
+- Systems Configuration
+- Virtualization
+- ...
