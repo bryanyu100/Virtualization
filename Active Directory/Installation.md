@@ -45,8 +45,34 @@ Check DHCP Server and DNS Server in the list of roles. Then click Next
 
 ![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-03%20154508.png)
 
-![]()
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143430.png)
 
-![]()
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143529.png)
 
-![]()
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143614.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143635.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143705.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143754.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143810.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143849.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143910.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20143952.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20144112.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20144147.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20144255.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20144351.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20144422.png)
+
+![](https://github.com/bryanyu100/Virtualization/blob/main/Active%20Directory/Images/2025-04-08%20144456.png)
